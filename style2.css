@@ -1,0 +1,369 @@
+body{
+    margin:0;
+  }
+.header1{
+    width:100%;
+    height:160px;
+    background: white;
+    position: fixed;
+    z-index: 1;
+    }
+.line1{
+   display: flex;
+    gap: 16px;
+    height:27%;
+   justify-content: center;
+    }
+.symbol1{
+    height:15px;
+    padding-top: 15px;
+    }
+#allow{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    color: #202124;
+    font-family: "National 2 Regular";
+    height: 32px;
+    padding-top: 1px;
+    line-height: 6px;
+    }
+.button{
+background: #494949;
+border-radius: 80px;
+height: 27px;
+width: 100px;
+position: relative;
+top: 10px;
+}
+#set{
+    color: white;
+    position: relative;
+    bottom: 11px;
+    font-size: 11px;
+    }
+.line2{
+    display: flex;
+    height: 58%;
+    }
+.part1{
+    display: flex;
+    width: 50%;
+    padding-left: 148px;
+    align-items: center;
+     gap: 30px;
+}
+#kfc{
+    height: 28px;
+   }
+.menu{
+    font-family: "National2-Medium";
+
+    font-style: normal;
+    font-weight: 525;
+    font-size: 15px;
+    line-height: 24px;
+}
+.part2{
+    display: flex;
+    width: 50%;
+    align-items: center;
+    gap: 10px;
+    padding-left: 484px;
+    }
+#sign{
+    font-style: normal;
+   font-size: 14px;
+   font-weight: 1000;
+   }
+#verti{
+    font-size: 32px;
+    opacity: .1;
+}
+#chick{
+    height: 39px;
+}
+#login{
+    height: 20px;
+}
+#rupee{
+    height: 12px;
+}
+.body{
+    padding-top: 13%;
+    width: 100%;
+   }
+.header2{
+    background-color:#202124;
+    height:70px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap:9px;
+    }
+#note1{
+        font-family: "National 2 Condensed";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 15px;
+    line-height: 17px;
+    letter-spacing: -0.5px;
+    text-transform: uppercase;
+    color: #fff;
+   }
+#button2{
+    color: red;
+    background: #e4002b;
+    border-radius: 80px;
+    border-color:#e4002b;
+height: 45px;
+width: 145px;
+position: relative;
+top: 10px;
+}
+#set2{
+    color: white;
+    font-size: 100%;
+    position: relative;
+    bottom: 10px;
+    }
+.body1{
+    width: 100%;
+}
+.allu{
+    width:100%;
+   }
+   .body2{
+    height: 130px;
+    background:#f8f7f5;
+    width: 100%;
+    }
+#three{
+    height: 20px;
+    padding-left: 180px;
+    margin-top: -4px;
+ }
+#note2{
+    padding-left: 156px;
+   letter-spacing: -4px;
+    font-family: "National 2 Condensed";
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 33px;
+    line-height: 34px;
+    color: #202124;
+    padding-top: 10px;
+}
+.body3{
+    height: 100px;
+    width: 100%;
+    margin-top: 102px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 52px;
+}
+#browse{
+   font-family: "National 2 Condensed";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    letter-spacing: -2px;
+    padding-bottom: 75px;
+   }
+ #uline{
+   width: 600px;
+    background-color: black;
+    height: 1px;
+    margin-bottom: 75px;
+    opacity: .1;
+   }
+   .body4{
+    width:100%;
+    height: 620px;
+   }
+   .first5{
+    display: flex;
+    gap: 19px;
+    justify-content: center;
+   }
+   .snacks{
+    color: #202124;
+    font-family: "National 2 Regular";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 11px;
+    text-align: center;
+   }
+   .Bcolor{
+background:#f7f6f6;
+   } 
+   .burger{
+        width: 17.8vw;
+    height: 13.18519vw;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+.second5{
+    display: flex;
+    justify-content: center;
+    gap: 19px;
+    margin-top: 85px;
+}
+.body5{
+    width:100%;
+    height:700px;
+    background-color: black;
+   }
+   .black{
+width: 100%;
+    height: 300px;
+   margin-left: 200px;
+   width: fit-content;
+}
+#red3{
+    height: 40px;
+     }
+   .white1{
+    color: white;
+  font-size: 29px;
+   }
+   .black2{
+    display: flex;
+    width: 50%;
+    height: 100px;
+    margin-left: 650px;
+    margin-top: 10px; 
+    width: fit-content;
+}
+.white2{
+    color: white;
+   margin-top: -45px;
+font-size: 14px;
+   }
+   #arrow{
+    height:15px;
+    margin-top: -45px;
+   }
+   .card{
+    width: 100%;
+   display: flex;
+   justify-content: center;
+      gap: 30px;
+    margin-top: -146px;
+   }
+   .redtape{
+    height:225px;  
+    width: 300px; border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+   }
+   .free{
+    width: 300px;
+    margin-top: -31px;
+    height: 165px;
+    background-color:#f8f7f5;
+}
+.free1{
+    font-size: 27px;
+    color: #e4002b;
+    letter-spacing: -2px;
+   }
+   .top1{
+    margin-top: -12px;
+}
+.par1{
+    margin-top: -5px;
+    }
+    .top2{
+        margin-top: -9px;
+    }
+.switch{
+display: flex;
+margin-top: -21px;
+justify-content: space-around;
+}
+.switch1{
+    margin-top: 10px;
+    height: 45px;
+    width: 125px;
+    border-radius: 19px;
+}
+.footer{
+    width: 100%;
+    height: 330px;
+    background-color: black;
+  
+}.footer1{
+    display: flex;
+    justify-content: space-around; 
+    padding-top: 10px;
+}
+#apps{
+    height: 57px;
+    width: 66px;
+}
+.table{
+    font-family: "National 2 Regular";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    color: #fff;
+}
+.tablefour{
+padding-left: 10px;
+}
+.inter{
+    display: flex;
+  justify-content: flex-start;
+}
+#find{
+    line-height: 5px;
+}
+.asapp{
+    display: flex;
+}
+#pstore{
+    height: 39px;
+    width: 118px;
+}
+#apple{
+    height: 45px;
+    width: 117px; 
+}
+.footer2{
+    width: 100%;
+    display: flex;
+    margin-top: 56px;
+    
+  }
+  .copy{
+    width: 60%;
+    color: white;
+   text-align: end;
+   padding-left: 166px;
+}
+.social{
+    display: flex;
+    width: 40%;
+    justify-content:center;
+    
+}
+#cright{
+    font-family: "National 2 Regular";
+    font-size: 12px;
+    text-align: center;
+    opacity: .9;
+    line-height: 12px;
+    color: #dbdbdb;
+}
+.media{
+   height: 30px;
+   width: 30px;
+}
+
+
+
+
+
